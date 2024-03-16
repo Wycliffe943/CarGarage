@@ -2,6 +2,11 @@
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\VehicleController;
+use App\Http\Controllers\PartController;
+use App\Http\Controllers\SupplierController;
+use App\Http\Controllers\ToolController;
+use App\Http\Controllers\AuthController;
 
 /*
 |--------------------------------------------------------------------------
